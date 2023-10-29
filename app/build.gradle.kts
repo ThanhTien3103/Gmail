@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.gmail"
-    compileSdk = 30
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.gmail"
-        minSdk = 30
-        targetSdk = 29
+        minSdk = 34
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
